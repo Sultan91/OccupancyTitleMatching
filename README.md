@@ -21,7 +21,7 @@ main.py main script
 
 ### Some test results from test_list.csv (пары я сам субьективно подбирал):
 
-entered title   &nbsp;    &nbsp;|    &nbsp;&nbsp;        target title               |   &nbsp;&nbsp;         predicted(by majority voting)
+#### entered title   &nbsp;    &nbsp;|    &nbsp;&nbsp;        target title               |   &nbsp;&nbsp;         predicted(by majority voting)
 _______________________________________
 Chosen names froma all matchers
 - 'Rail Yard Engineers, Dinkey Operators, and Hostlers', 'Software Developers, Applications', 'Computer Systems Engineers/Architects', 'Software Quality Assurance Engineers and Testers', 'Product Safety Engineers', 'Product Safety Engineers', 'Aerospace Engineers'
