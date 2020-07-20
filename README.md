@@ -19,7 +19,7 @@ main.py main script
 `best_match_bert('C++ Software Engineer', title_pool)` - returns best match
 
 
-### Some test results from test_list.csv (пары я сам субьективно подбирал):
+### Some test results from test_list.csv (пары я сам субьективно подбирал, пытался найти не явно одинаковые):
 
 #### entered title   &nbsp;    &nbsp;|    &nbsp;&nbsp;        target title               |   &nbsp;&nbsp;         predicted(by majority voting)
 _______________________________________
